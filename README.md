@@ -1,2 +1,2 @@
 # hackattack
- Multiplayer psuedo-hacking activity
+ Multiplayer psuedo-hacking activity.
