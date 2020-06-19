@@ -1,0 +1,5 @@
+1v1
+3 actions: 
+-attack: attack opponent with current power level of damage
+-defend: defend against next attack (no matter power level)
+-upgrade (power up/research): increase power level by 1
